@@ -1,6 +1,8 @@
 {
-  "name": "my-app",
+  "name": "Currency Converter",
   "version": "0.1.0",
+   "author": "Eldo M <eldoma@gmail.com>",
+  "license": "MIT",
   "private": true,
   "dependencies": {
     "babel": "^6.5.2",
